@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shorten_linker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8812705957c1620f1b1b74b7878dcd2d87a9916")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shorten_linker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shorten_linker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
